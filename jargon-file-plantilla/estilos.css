@@ -1,0 +1,38 @@
+body{
+    background-color: #ccdee6;
+    font-family: sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+h2{
+    background-color: #339ecc;
+    text-align: left;
+    color: black;
+    text-transform: uppercase;
+}
+h3{
+    background-color: #80c7e6;
+    text-align: left;
+    color: white;
+
+}
+pre{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+p{
+    color: black;
+    font-style: italic ;
+    margin: 0px 0px 0px 16px;
+}
+div{
+    text-align: right;
+    font-family: serif;
+    font-style: normal;
+}
