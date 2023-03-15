@@ -1,0 +1,30 @@
+body{
+    background-color: #268c51;
+}
+h1{
+    color: black;
+    font-size: 48px;
+    font-family: sans-serif;
+    margin: 32.16px 0px;
+}
+p.o {
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+    font-size: 150%;
+}
+p.e {
+    color: #ffdfb3;
+    font-family: sans-serif;
+    font-size: 150%;
+}
+p.i{
+    color: #fa9d2b;
+    font-family: monospace;
+    font-size: 200%;
+}
+p.a {
+    color: #e61e4d;
+    font-family: cursive;
+    font-size: 150%;
+}
