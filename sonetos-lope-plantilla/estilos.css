@@ -1,0 +1,56 @@
+body{
+    background-color: #ffebf0;
+    background-image: url(./fondos/corazon-1.svg);
+    background-position: left;
+    background-size: 10% 10%;
+    background-repeat: repeat-y,
+    url(./fondos/corazon-2.svg);
+    background-position: right;
+    background-size: 10% 10%;
+    background-repeat: repeat-y;
+
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+p.manchas{
+    color: white;
+    text-align: justify center;
+    border: black solid 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(./fondos/manchas.png);
+}
+p.tallos{
+    color: #fedc01;
+    text-align: justify center;
+    border: black solid 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(./fondos/tallos.jpg);
+}
+p.hexagonos{
+    color: #800000;
+    text-align: justify center;
+    border: black solid 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(./fondos/hexagonos.jpg);
+}
+p.estrellas{
+    color: #09541b;
+    text-align: justify center;
+    border: black solid 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(./fondos/estrellas.png);
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+}
