@@ -44,3 +44,17 @@
 .icon-minus:before {
 	content: "\ea0b";
 }
+
+body{
+	background-color: #d3d3d3;
+}
+.ib li{
+	display: inline-block;
+	background-color: #5ace77;
+	border: 5px dashed #954a95;
+	margin: 0.8rem;
+	padding: 0.4rem 2rem 0.4rem 2rem;
+	font-size: 0
+	.8rem;
+}
+
