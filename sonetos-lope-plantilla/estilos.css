@@ -44,6 +44,7 @@ p.estrellas{
     margin-left: 10%;
     margin-right: 10%;
     background: url(./fondos/caballo.svg) bottom repeat-x, url(./fondos/estrellas.png);
+    background-size: 15% 15%;
 }
 p{
     text-align: center;
