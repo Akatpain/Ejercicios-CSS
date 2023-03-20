@@ -7,46 +7,63 @@ body{
 
 h1{
     text-align: center;
+    position: relative;
+    margin: 0;
+    font-size: 3rem;
+    
 }
 p{
     position: absolute;
     padding: 1.2rem;
+    font-size: 1.5rem;
+    
 }
 .naranja{
     background-color: #ffd580;
-    border: 2px solid #806633;
+    border: 3px solid #806633;
     text-align: center;
-    top: 10%;
-    left: 12%;
-    width: 85%;
+    left: 10%;
+    width: 80%;
     height: 10%;
 }
 .verde{
     background-color: #80ff80;
-    border: 2px solid #338033;
+    border: 3px solid #338033;
     text-align: center;
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 32%;
+    width: 35%;
+    height: 30%;
+    z-index: 2;
 
 
 }
 .amarillo{
     background-color: #ffff80;
-    border: 2px solid #d9d940;
+    border: 3px solid #d9d940;
     text-align: left;
+    left: 10%;
+    top: 20%;
+    z-index: 3;
+    width: 35%;
+    height: 30%;
+
 }
 .azul{
     background-color: #ccffff;
-    border: 2px solid #99cccc;
+    border: 3px solid #99cccc;
     text-align: right;
+    z-index: 3;
 }
 .lila{
     background-color: #ffe6ff;
-    border: 2px solid #bfa6bf;
+    border: 3px solid #bfa6bf;
     text-align: left;
+    z-index: 3;
 }
 .rojo{
     background-color: #ffb3b3;
-    border: 2px solid #806666;
+    border: 3px solid #806666;
     text-align: right;
+    z-index: 3;
 }
