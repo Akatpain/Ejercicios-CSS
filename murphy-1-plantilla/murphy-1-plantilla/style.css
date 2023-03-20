@@ -1,0 +1,52 @@
+body{
+    background-color: #cccccc;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    position: absolute;
+    padding: 1.2rem;
+}
+.naranja{
+    background-color: #ffd580;
+    border: 2px solid #806633;
+    text-align: center;
+    top: 10%;
+    left: 12%;
+    width: 85%;
+    height: 10%;
+}
+.verde{
+    background-color: #80ff80;
+    border: 2px solid #338033;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+
+
+}
+.amarillo{
+    background-color: #ffff80;
+    border: 2px solid #d9d940;
+    text-align: left;
+}
+.azul{
+    background-color: #ccffff;
+    border: 2px solid #99cccc;
+    text-align: right;
+}
+.lila{
+    background-color: #ffe6ff;
+    border: 2px solid #bfa6bf;
+    text-align: left;
+}
+.rojo{
+    background-color: #ffb3b3;
+    border: 2px solid #806666;
+    text-align: right;
+}
