@@ -19,14 +19,21 @@ p:hover{
     
 }
 .naranja{
-    
-        position: absolute;
-        border: hwb(40 20% 50%) 2px solid;
-        background-color: hwb(40 50% 0%);
-        text-align: center;
+    top: 7%;
+    left: 11%;
+    width: 85%;
+    height: 12%;
+    position: absolute;
+    border: hwb(40 20% 50%) 2px solid;
+    background-color: hwb(40 50% 0%);
+    text-align: center;
     }
 
 .verde{
+    top: 42%;
+    left: 30%;
+    width: 32%;
+    height: 32%;
     position: absolute;
     z-index: 2;
     border: hwb(120 20% 50%)4px solid;
@@ -36,6 +43,10 @@ p:hover{
 
 }
 .amarillo{
+    top: 27%;
+    left: 6%;
+    width: 37%;
+    height: 28%;
     position: absolute;
     border: hwb(60 25% 15%) 4px solid;
     background-color: hwb(60 50% 0%);
@@ -43,18 +54,30 @@ p:hover{
 
 }
 .azul{
+    top: 26%;
+    left: 7%;
+    width: 35%;
+    height: 28%;
     position: absolute;
     border: hwb(180 60% 20%) 4px solid;
     background-color: hwb(180 80% 0%);
     text-align: right;
 }
 .lila{
+    top: 7%;
+    left: 5%;
+    width: 35%;
+    height: 22%;
     position: absolute;
     border: hwb(300 65% 25%) 4px solid;
     background-color: hwb(300 90% 0%);
     text-align: left;
 }
 .rojo{
+    top: 100%;
+    left: 100%;
+    width: 35%;
+    height: 25%;
     position: absolute;
     border: hwb(0 40% 50%) 4px solid;
     background-color: hwb(0 70% 0%);
