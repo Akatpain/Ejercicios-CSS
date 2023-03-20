@@ -13,7 +13,7 @@ h1{
     
 }
 p{
-    position: absolute;
+    position: relative;
     padding: 1.2rem;
     font-size: 1.5rem;
     
@@ -42,8 +42,8 @@ p{
     background-color: #ffff80;
     border: 3px solid #d9d940;
     text-align: left;
-    left: 10%;
-    top: 20%;
+    left: 0%;
+    top: 0%;
     z-index: 3;
     width: 35%;
     height: 30%;
