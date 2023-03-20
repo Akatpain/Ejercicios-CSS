@@ -12,58 +12,51 @@ h1{
     font-size: 3rem;
     
 }
-p{
+p:hover{
     position: relative;
     padding: 1.2rem;
     font-size: 1.5rem;
     
 }
 .naranja{
-    background-color: #ffd580;
-    border: 3px solid #806633;
-    text-align: center;
-    left: 10%;
-    width: 80%;
-    height: 10%;
-}
+    
+        position: absolute;
+        border: hwb(40 20% 50%) 2px solid;
+        background-color: hwb(40 50% 0%);
+        text-align: center;
+    }
+
 .verde{
-    background-color: #80ff80;
-    border: 3px solid #338033;
-    text-align: center;
-    top: 40%;
-    left: 32%;
-    width: 35%;
-    height: 30%;
+    position: absolute;
     z-index: 2;
+    border: hwb(120 20% 50%)4px solid;
+    background-color: hwb(120 50% 0%);
+    text-align: center;
 
 
 }
 .amarillo{
-    background-color: #ffff80;
-    border: 3px solid #d9d940;
+    position: absolute;
+    border: hwb(60 25% 15%) 4px solid;
+    background-color: hwb(60 50% 0%);
     text-align: left;
-    left: 0%;
-    top: 0%;
-    z-index: 3;
-    width: 35%;
-    height: 30%;
 
 }
 .azul{
-    background-color: #ccffff;
-    border: 3px solid #99cccc;
+    position: absolute;
+    border: hwb(180 60% 20%) 4px solid;
+    background-color: hwb(180 80% 0%);
     text-align: right;
-    z-index: 3;
 }
 .lila{
-    background-color: #ffe6ff;
-    border: 3px solid #bfa6bf;
+    position: absolute;
+    border: hwb(300 65% 25%) 4px solid;
+    background-color: hwb(300 90% 0%);
     text-align: left;
-    z-index: 3;
 }
 .rojo{
-    background-color: #ffb3b3;
-    border: 3px solid #806666;
+    position: absolute;
+    border: hwb(0 40% 50%) 4px solid;
+    background-color: hwb(0 70% 0%);
     text-align: right;
-    z-index: 3;
 }
