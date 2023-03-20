@@ -67,7 +67,7 @@ body{
 }
 .cb{
 	background-color: white;
-	display: ;
+	display: block;
 	border: 1px solid;
 	border-color: black;
 }
